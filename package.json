@@ -1,0 +1,19 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewy2416/readmegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewy2416/readmegenerator/issues"
+  },
+  "homepage": "https://github.com/Andrewy2416/readmegenerator#readme"
+}
