@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andrewy2416/readmegenerator/issues"
   },
-  "homepage": "https://github.com/Andrewy2416/readmegenerator#readme"
+  "homepage": "https://github.com/Andrewy2416/readmegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
