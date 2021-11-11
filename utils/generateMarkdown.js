@@ -39,6 +39,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseSection(data.license)}
   ## Description 
+
   ${data.description}
   
   ## Table of Contents
@@ -84,3 +85,5 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+//{generateMarkdown, renderLicenseBadge, renderLicenseLink, renderLicenseSection};
+

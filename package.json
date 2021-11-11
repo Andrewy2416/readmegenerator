@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Andrewy2416/readmegenerator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "markdown": "^0.5.0"
   }
 }
