@@ -47,7 +47,7 @@ const questions = [{
 {
     type: "input",
     name: "tests",
-    message: "Write tests for your application. Then provide examples on how to run them."
+    message: "Please enter any testing information for this project."
 }
 
 
