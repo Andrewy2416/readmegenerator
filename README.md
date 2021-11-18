@@ -10,9 +10,9 @@
 
 Steps to use this application
 
-1. git clone the README.md Generator repository.
-2. npm install inquirer which will show the prompts to fill out the README.md
-3. In the command terminal type "node index.js".
+1. git clone the readmegenerator repository.
+2. npm install inquirer which will show the prompts to fill out the dynamically created README.md
+3. In the command terminal, run "node index.js".
 4. Answer the prompts as they appear. License badges and inputted info will appear in the appropiate sections.
 5. Your brand new README.md file will appear after answering all prompts.
 
