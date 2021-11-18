@@ -1,3 +1,27 @@
-# readmegenerator
+# Password Generator
 
-readme
+<p> This is a command-line application that is used with node.js. This application can dynamically creats a README.md file. The contents of the README.md file are fill out based on the answers to prompts that are given in the command line. </p>
+
+## Screenshot 
+
+![Generated README.md File](https://user-images.githubusercontent.com/89713438/142390321-8db7d9fb-3bb2-4091-bfd7-31077161cade.jpg)
+
+## Installation
+
+Steps to use this application
+
+1. git clone the README.md Generator repository.
+2. npm install inquirer which will show the prompts to fill out the README.md
+3. In the command terminal type "node index.js".
+4. Answer the prompts as they appear. License badges and inputted info will appear in the appropiate sections.
+5. Your brand new README.md file will appear after answering all prompts.
+
+## Usage
+
+![Link to video displaying usage of application](https://drive.google.com/file/d/12hi_FI00DqU0ytYR8tFDUtHg5HqB7kwR/view)
+
+### Links
+
+Repository Link = (https://github.com/Andrewy2416/readmegenerator)
+
+Deployable Application = (https://andrewy2416.github.io/passwordgenerator/)
