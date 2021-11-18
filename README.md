@@ -18,10 +18,10 @@ Steps to use this application
 
 ## Usage
 
-![Link to video displaying usage of application](https://drive.google.com/file/d/12hi_FI00DqU0ytYR8tFDUtHg5HqB7kwR/view)
+(https://drive.google.com/file/d/12hi_FI00DqU0ytYR8tFDUtHg5HqB7kwR/view)
+
+Link to video showing usage of Application
 
 ### Links
 
 Repository Link = (https://github.com/Andrewy2416/readmegenerator)
-
-Deployable Application = (https://andrewy2416.github.io/passwordgenerator/)
