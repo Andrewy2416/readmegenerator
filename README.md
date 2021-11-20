@@ -18,7 +18,7 @@ Steps to use this application
 
 ## Usage
 
-(https://drive.google.com/file/d/12hi_FI00DqU0ytYR8tFDUtHg5HqB7kwR/view)
+(https://www.youtube.com/watch?v=KjAxgSlaDx4)
 
 Link to video showing usage of Application
 
